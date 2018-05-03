@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Session_4\Session_4\bin\Debug\Session_4.exe.config
+C:\Users\Administrator\Desktop\Session_4\Session_4\bin\Debug\Session_4.exe
+C:\Users\Administrator\Desktop\Session_4\Session_4\bin\Debug\Session_4.pdb
+C:\Users\Administrator\Desktop\Session_4\Session_4\obj\Debug\Session_4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Session_4\Session_4\obj\Debug\Session_4.exe
+C:\Users\Administrator\Desktop\Session_4\Session_4\obj\Debug\Session_4.pdb
